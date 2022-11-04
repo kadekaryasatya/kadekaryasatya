@@ -1,10 +1,10 @@
-# Halo semua! 
+# Hii... 
 
-Perkenalkan nama saya **Dek Arya**.
+**Dek Arya**. here..
 
-Saya seorang **Mahasiswa IT** di [Universitas Udayana](https://www.unud.ac.id/).
+I'm a passionate front-end web developer with 3 years of experience using JavaScript, HTML5, and CSS to build all aspects of the user experience and user interface landing pages. Specializes in using ReactJS and Bootstrap to create a responsive and powerful website. I love design and I'm a UI/UX Design Enthusias
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dek-arya-1a04771b9/)ku ya.
+Let's Connect [Linkedin](https://www.linkedin.com/in/dek-arya-1a04771b9/)
 
 
 
