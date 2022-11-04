@@ -4,7 +4,9 @@
 
 I'm a passionate front-end web developer with 3 years of experience using JavaScript, HTML5, and CSS to build all aspects of the user experience and user interface landing pages. Specializes in using ReactJS and Bootstrap to create a responsive and powerful website. I love design and I'm a UI/UX Design Enthusias
 
-Let's Connect My [Linkedin](https://www.linkedin.com/in/dek-arya-1a04771b9/)
+Don't forget put your star .... :)
+
+Let's Connect with [Linkedin](https://www.linkedin.com/in/dek-arya-1a04771b9/)
 
 
 
