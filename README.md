@@ -2,7 +2,7 @@
 
 **Dek Arya**. here..
 
-I'm a passionate front-end web developer with 3 years of experience using JavaScript, HTML5, and CSS to build all aspects of the user experience and user interface landing pages. Specializes in using ReactJS and Tailwind to create a responsive and powerfull website. I love design and I'm a UI/UX Design Enthusiast
+I'm a passionate front-end web developer with 3 years of experience using JavaScript, HTML5, and CSS to build all aspects of the user experience and user interface landing pages. Specializes in using ReactJS and Tailwind to create a responsive and powerful website. I love design and I'm a UI/UX Design Enthusiast
 
 Don't forget put your star .... :)
 
